@@ -19,10 +19,6 @@ A ideia é construir páginas que transmitam personalidade e aconchego, assim co
 - Formulário de **contato** com inputs e área de mensagem  
 - **Footer** com ícones de redes sociais  
 
-## 🖼️ Preview
-![Café Aurora](img/bolo.png)
-
-> Obs: Substitua essa imagem por uma captura da tela inicial (`img/home.png`, por exemplo), se preferir mostrar o layout completo do site.
 
 ## 🌐 Deploy
 🔗 [Acesse o site aqui](https://cafe-aurora-w.netlify.app)
